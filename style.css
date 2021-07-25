@@ -1,0 +1,39 @@
+.bg-background{
+    background-color: #fceae8;
+}
+
+.btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.price-color{
+    color: #ff4a92;
+}
+.categories img{
+    width: 100px;
+}
+.categories{
+    margin-bottom: 100px;
+}
+.categories .round{
+    border-radius: 20px;
+    padding: 5px 25px;
+    color: white;
+    margin: 30px 0;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.mb{
+    margin-bottom: 0;
+}
+.margin{
+    margin-bottom: 200px;
+}
